@@ -1,12 +1,12 @@
 import React from 'react'
 import Tours from './Pages/Tours';
-import Data from './data';
+// import Data from './data';
 
 
 function App() {
   return (
     <div>
-      <Data />
+      {/* <Data /> */}
       <Tours />
     </div>
   )
